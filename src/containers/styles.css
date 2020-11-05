@@ -1,0 +1,338 @@
+
+
+.jss5 {
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 3px 1px -2px rgba(0,0,0,0.12);
+}
+
+.jss2 {
+    border-radius: 4px;
+}
+
+
+.jss1 {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.jss302 {
+    text-align: left;
+}
+
+.jss295 {
+    color: black;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.jss294 {
+    display: table-cell;
+    padding: 4px 56px 4px 24px;
+    text-align: left;
+    vertical-align: inherit;
+}
+
+.MenuLeft
+{
+    position: fixed;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: white;
+    width: 170px;
+}
+
+body
+{
+    background-color: #F1F7FC!important;
+}
+
+.TittleMenu
+{
+    margin: 0;
+    color:#cacfd2;
+}
+
+.MenuItem
+{
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: black;
+  }
+
+.TableGrid
+{
+    width: 100%;
+}
+
+.RowGrid
+{
+    width: 100%;
+}
+
+.MenuItem:hover
+{
+    background-color: #f4f4fc;
+}
+
+
+
+
+
+.jss534 {
+    text-align: left;
+}
+
+.jss527 {
+    color: black;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.jss526 {
+    display: table-cell;
+    padding: 4px 56px 4px 24px;
+    text-align: left;
+    border-bottom: 1px solid rgba(224, 224, 224, 1);
+    vertical-align: inherit;
+}
+
+.jss521 {
+    color: inherit;
+    height: 48px;
+    display: table-row;
+    outline: none;
+    vertical-align: middle;
+}
+
+.jss532 {
+    padding: 0 12px;
+}
+
+.jss528 {
+    color: #5d5858;
+    font-size: 0.8125rem;
+    font-weight: 400;
+}
+
+.jss526 {
+    display: table-cell;
+    padding: 4px 56px 4px 24px;
+    text-align: left;
+    border-bottom: 1px solid rgba(224, 224, 224, 1);
+    vertical-align: inherit;
+}
+
+.jss519
+{
+    width: 100%;
+}
+
+.jss521.jss523:hover {
+    background-color: rgba(0, 0, 0, 0.07);
+}
+
+.buttonAdd
+{
+    background-color: #64e47c;
+    color: white;
+    border-color: #64e47c;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.cardNewRegistro
+{
+    max-width: 980px;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.TableNewRegister
+{
+    border-spacing: 50px;
+}
+
+.dashboard-title
+{
+    font-size: 32px;
+    color: #6F6F6F;
+    border-bottom: 1px solid #E1E1E1;
+    line-height: 40px;
+}
+
+.col-md-12
+{
+    float: left;
+}
+
+.dashboard-title-column {
+    padding-bottom: 15px;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.btn-pill, .btn-view-history {
+    border-radius: 6px!important;
+}
+
+.btn-pill {
+    width: 169px;
+    height: 39px;
+}
+
+.btn-green-light {
+    color: #fff;
+    background: #63E57B;
+    border: none;
+}
+
+.btn-blue-light, .btn-gray-light, .btn-green-light {
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,.21);
+}
+.btn-full {
+    width: 100%!important;
+}
+
+.col-md-10 {
+    width: 83.33333333%;
+}
+
+.col-xs-12 {
+    width: 100%;
+}
+
+.search-padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-md-2 {
+    width: 16.66666667%;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.no-margin {
+    margin: 0!important;
+}
+
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: left;
+}
+
+.col-sm-6 {
+    width: 50%;
+}
+
+.pull-left {
+    float: left!important;
+}
+
+.dashboard-title {
+    font-size: 32px;
+    color: #6F6F6F;
+    border-bottom: 1px solid #E1E1E1;
+    line-height: 40px;
+}
+
+.col-md-6 {
+    width: 50%;
+}
+
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.pull-right {
+    float: right!important;
+}
+
+.col-md-3 {
+    width: 16.3%;
+}
+
+.ContentCatalogo
+{
+    margin-top: 5%;
+}
+
+.makeStyles-field
+{
+    width: 40%;
+    margin: 8px!important;
+}
+
+.AlertDiv
+{
+    position: fixed;
+    right: 0;
+    bottom: 20px;
+    z-index: 999;
+}
+
+.Danger-Bar
+{
+    background-color: red;
+    width: 50px;
+    height: 20px;
+}
+
+.Succes-Bar
+{
+    background-color: green;
+    width: 50px;
+    height: 20px;
+}
+
+.Warning-Bar
+{
+    background-color: yellow;
+    width: 50px;
+    height: 20px;
+}
+
+.MuiPickersModal-dialogRoot
+{
+    z-index: 100;
+}
+
+.ContainerModal
+{
+    padding-left: 2%;
+}
